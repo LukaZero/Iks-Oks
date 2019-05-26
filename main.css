@@ -1,0 +1,14 @@
+.tile{
+	width: 100px;
+	height: 100px;
+	font-size: 50px;
+	font-family: Arial;
+}
+
+.gameBoard{
+	display: none;
+}
+
+.center{
+	margin: 0 auto;
+}
