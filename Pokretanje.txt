@@ -1,0 +1,7 @@
+U folderu naseg projekta pokrenuti cmd i otkucati sledece:
+
+- npm install
+
+- npm start
+
+Zatim otvoriti web browser i otkucati http://localhost:5000
